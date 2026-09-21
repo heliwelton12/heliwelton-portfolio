@@ -1,36 +1,110 @@
+<div align="center">
+
 # Heliwelton Fernandes — Portfólio
 
-Portfólio pessoal desenvolvido com Next.js + TypeScript, com identidade visual em azul/ciano e verde neon.
+### Portfólio profissional de Desenvolvimento Web
 
-## Conteúdo atual
+Aplicação desenvolvida para apresentar minha trajetória, projetos, tecnologias e formas de contato em uma experiência moderna e responsiva.
 
-- Apresentação profissional de Heliwelton Fernandes — Dev Web
-- Sobre mim
-- Projetos: HF ERP, Cactus Burguer e UniPlace
-- Galeria de telas dos projetos
-- Tecnologias e ferramentas
-- Contatos: WhatsApp, Instagram, GitHub, LinkedIn e e-mail
-- Layout responsivo para celular e computador
+<br>
 
-## Rodar localmente
+[![Acessar Portfólio](https://img.shields.io/badge/ACESSAR%20PORTFÓLIO-25C8FF?style=for-the-badge&logo=netlify&logoColor=white)](https://heliweltondev.netlify.app/)
 
-```bash
-npm install
-npm run dev
-```
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heliwelton12)
 
-Abra `http://localhost:3000` no navegador.
+</div>
 
-## Publicação
+---
 
-O projeto está preparado para ser enviado ao GitHub e conectado ao Netlify. Ao importar o repositório no Netlify, ele deve reconhecer automaticamente o projeto Next.js e usar o comando de build `npm run build`.
+## Sobre o projeto
 
-## Onde editar
+Este é o meu **portfólio profissional**, desenvolvido para reunir em um único espaço informações sobre minha formação, conhecimentos técnicos, projetos desenvolvidos e contatos profissionais.
 
-- Texto principal: `components/Hero.tsx`
-- Sobre: `components/About.tsx`
-- Projetos e links: `components/Projects.tsx`
-- Tecnologias: `components/Technologies.tsx`
-- Contatos: `components/Contact.tsx`
-- Estilos: `app/globals.css`
-- Imagens dos projetos: `public/projects/`
+O projeto possui identidade visual própria em tons de **azul, ciano e verde**, com foco em uma interface moderna, tecnológica e responsiva.
+
+O site está publicado e disponível em:
+
+**https://heliweltondev.netlify.app/**
+
+---
+
+## Principais seções
+
+### Apresentação
+
+Área inicial com apresentação profissional, formação e foco em desenvolvimento web.
+
+### Sobre mim
+
+Informações sobre minha formação em **Sistemas de Informação pela UNEB**, atuação em desenvolvimento web e interesses profissionais.
+
+### Projetos em destaque
+
+O portfólio apresenta atualmente:
+
+- **HF ERP** — Sistema Full Stack de gestão empresarial
+- **Cactus Burguer** — Cardápio digital responsivo com pedidos pelo WhatsApp
+- **UniPlace** — Sistema de agendamento de salas e laboratórios
+
+### Tecnologias e ferramentas
+
+Organização das principais tecnologias utilizadas e estudadas nas áreas de Front-end, Back-end e Banco de Dados.
+
+### Contato
+
+Área dedicada a contatos profissionais e oportunidades de projetos.
+
+---
+
+## Tecnologias utilizadas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,css,git,github,vscode" />
+
+</div>
+
+<br>
+
+### Front-end
+
+- Next.js
+- React
+- TypeScript
+- CSS
+- HTML
+
+### Ferramentas
+
+- Git
+- GitHub
+- Visual Studio Code
+- Netlify
+
+---
+
+## Estrutura do projeto
+
+```text
+heliwelton-portfolio/
+├── app/
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+│
+├── components/
+│   ├── About.tsx
+│   ├── Contact.tsx
+│   ├── Footer.tsx
+│   ├── Header.tsx
+│   ├── Hero.tsx
+│   ├── Projects.tsx
+│   └── Technologies.tsx
+│
+├── public/
+│   ├── profile/
+│   └── projects/
+│
+├── package.json
+├── tsconfig.json
+└── README.md
