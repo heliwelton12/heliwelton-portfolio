@@ -4,13 +4,23 @@
 
 ### Portfólio profissional de Desenvolvimento Web
 
-Aplicação desenvolvida para apresentar minha trajetória, projetos, tecnologias e formas de contato em uma experiência moderna e responsiva.
+Aplicação desenvolvida para reunir minha apresentação profissional, projetos, tecnologias e formas de contato em uma experiência moderna e responsiva.
 
 <br>
 
-[![Acessar Portfólio](https://img.shields.io/badge/ACESSAR%20PORTFÓLIO-25C8FF?style=for-the-badge&logo=netlify&logoColor=white)](https://heliweltondev.netlify.app/)
+<a href="https://heliweltondev.netlify.app/">
+  <img src="https://img.shields.io/badge/ACESSAR%20PORTF%C3%93LIO-0EA5E9?style=for-the-badge&logo=netlify&logoColor=white" alt="Acessar portfólio" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heliwelton12)
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-PUBLICADO-22C55E?style=flat-square" alt="Publicado" />
+<img src="https://img.shields.io/badge/HOSPEDAGEM-NETLIFY-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+<img src="https://img.shields.io/badge/FOCO-RESPONSIVIDADE-334155?style=flat-square" alt="Responsividade" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,css,git,github,vscode" alt="Next.js, React, TypeScript, CSS, Git, GitHub e VS Code" />
 
 </div>
 
@@ -22,9 +32,7 @@ Este é o meu **portfólio profissional**, desenvolvido para reunir em um único
 
 O projeto possui identidade visual própria em tons de **azul, ciano e verde**, com foco em uma interface moderna, tecnológica e responsiva.
 
-O site está publicado e disponível em:
-
-**https://heliweltondev.netlify.app/**
+Além de funcionar como apresentação profissional, o portfólio também é um projeto prático de Front-end, organização de componentes, responsividade e construção de identidade visual.
 
 ---
 
@@ -32,11 +40,11 @@ O site está publicado e disponível em:
 
 ### Apresentação
 
-Área inicial com apresentação profissional, formação e foco em desenvolvimento web.
+Área inicial com apresentação profissional e foco em desenvolvimento web.
 
 ### Sobre mim
 
-Informações sobre minha formação em **Sistemas de Informação pela UNEB**, atuação em desenvolvimento web e interesses profissionais.
+Informações sobre formação, conhecimentos, experiência prática e interesses profissionais.
 
 ### Projetos em destaque
 
@@ -58,15 +66,11 @@ Organização das principais tecnologias utilizadas e estudadas nas áreas de Fr
 
 ## Tecnologias utilizadas
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,css,git,github,vscode" />
-
-</div>
-
-<br>
-
 ### Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,css,html" alt="Next.js, React, TypeScript, CSS e HTML" />
+</p>
 
 - Next.js
 - React
@@ -76,10 +80,58 @@ Organização das principais tecnologias utilizadas e estudadas nas áreas de Fr
 
 ### Ferramentas
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" alt="Git, GitHub, VS Code e Netlify" />
+</p>
+
 - Git
 - GitHub
 - Visual Studio Code
 - Netlify
+
+---
+
+## Projetos apresentados
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### HF ERP
+
+Sistema Full Stack para gestão empresarial, com foco em vendas, estoque, clientes, ordens de serviço, fornecedores e financeiro.
+
+<a href="https://github.com/heliwelton12/hf-erp">
+  <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-181717?style=flat-square&logo=github&logoColor=white" alt="HF ERP no GitHub" />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### Cactus Burguer
+
+Cardápio digital responsivo com personalização de produtos, carrinho e envio de pedidos pelo WhatsApp.
+
+<a href="https://cactus-burguer.cactusburguer.chatgpt.site/">
+  <img src="https://img.shields.io/badge/VER%20ONLINE-16A34A?style=flat-square&logo=googlechrome&logoColor=white" alt="Acessar Cactus Burguer" />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### UniPlace
+
+Projeto acadêmico para gerenciamento e agendamento de salas e laboratórios.
+
+<a href="https://github.com/heliwelton12/agendamento-de-salas">
+  <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-181717?style=flat-square&logo=github&logoColor=white" alt="UniPlace no GitHub" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -108,3 +160,36 @@ heliwelton-portfolio/
 ├── package.json
 ├── tsconfig.json
 └── README.md
+```
+
+---
+
+## Publicação
+
+O projeto está publicado no Netlify e disponível em:
+
+**https://heliweltondev.netlify.app/**
+
+---
+
+## Autor
+
+<div align="center">
+
+**Heliwelton Fernandes**
+
+<br>
+
+<a href="https://heliweltondev.netlify.app/">
+  <img src="https://img.shields.io/badge/PORTF%C3%93LIO-0EA5E9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/heliweltondev/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/heliwelton12">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
